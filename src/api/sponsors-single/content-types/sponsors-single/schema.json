@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "sponsors_singles",
+  "info": {
+    "singularName": "sponsors-single",
+    "pluralName": "sponsors-singles",
+    "displayName": "SponsorsSingle"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

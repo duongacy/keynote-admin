@@ -1,0 +1,1001 @@
+{
+    "id": 1,
+    "attributes": {
+        "name": "Opening Day",
+        "dateTime": "2023-04-03T17:00:00.000Z",
+        "createdAt": "2023-12-19T16:04:45.331Z",
+        "updatedAt": "2023-12-20T16:09:38.824Z",
+        "publishedAt": "2023-12-19T16:09:07.367Z",
+        "summary": "The first day of the conference is focused on dark patterns for ecommerce.\n\n",
+        "speakers": {
+            "data": [
+                {
+                    "id": 1,
+                    "attributes": {
+                        "name": "Steven McHail",
+                        "role": "Designer at Globex Corporation",
+                        "createdAt": "2023-12-19T15:50:58.773Z",
+                        "updatedAt": "2023-12-19T16:09:17.490Z",
+                        "publishedAt": "2023-12-19T16:09:17.488Z",
+                        "image": {
+                            "data": {
+                                "id": 19,
+                                "attributes": {
+                                    "name": "steven-mchail.jpg",
+                                    "alternativeText": null,
+                                    "caption": null,
+                                    "width": 1120,
+                                    "height": 560,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "name": "thumbnail_steven-mchail.jpg",
+                                            "hash": "thumbnail_steven_mchail_a771cf03e5",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 245,
+                                            "height": 123,
+                                            "size": 3.84,
+                                            "url": "/uploads/thumbnail_steven_mchail_a771cf03e5.jpg"
+                                        },
+                                        "medium": {
+                                            "name": "medium_steven-mchail.jpg",
+                                            "hash": "medium_steven_mchail_a771cf03e5",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 750,
+                                            "height": 375,
+                                            "size": 21.1,
+                                            "url": "/uploads/medium_steven_mchail_a771cf03e5.jpg"
+                                        },
+                                        "large": {
+                                            "name": "large_steven-mchail.jpg",
+                                            "hash": "large_steven_mchail_a771cf03e5",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 1000,
+                                            "height": 500,
+                                            "size": 34.72,
+                                            "url": "/uploads/large_steven_mchail_a771cf03e5.jpg"
+                                        },
+                                        "small": {
+                                            "name": "small_steven-mchail.jpg",
+                                            "hash": "small_steven_mchail_a771cf03e5",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 500,
+                                            "height": 250,
+                                            "size": 11.02,
+                                            "url": "/uploads/small_steven_mchail_a771cf03e5.jpg"
+                                        }
+                                    },
+                                    "hash": "steven_mchail_a771cf03e5",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 41.72,
+                                    "url": "/uploads/steven_mchail_a771cf03e5.jpg",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-12-19T15:49:42.958Z",
+                                    "updatedAt": "2023-12-19T15:49:42.958Z"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "attributes": {
+                        "name": "Jaquelin Isch",
+                        "role": "UX Design at InGen",
+                        "createdAt": "2023-12-19T15:51:58.437Z",
+                        "updatedAt": "2023-12-19T15:51:58.437Z",
+                        "publishedAt": "2023-12-19T16:08:19.768Z",
+                        "image": {
+                            "data": {
+                                "id": 9,
+                                "attributes": {
+                                    "name": "jaquelin-isch.jpg",
+                                    "alternativeText": null,
+                                    "caption": null,
+                                    "width": 1120,
+                                    "height": 560,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "name": "thumbnail_jaquelin-isch.jpg",
+                                            "hash": "thumbnail_jaquelin_isch_56385651a2",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 245,
+                                            "height": 123,
+                                            "size": 3.09,
+                                            "url": "/uploads/thumbnail_jaquelin_isch_56385651a2.jpg"
+                                        },
+                                        "large": {
+                                            "name": "large_jaquelin-isch.jpg",
+                                            "hash": "large_jaquelin_isch_56385651a2",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 1000,
+                                            "height": 500,
+                                            "size": 23.1,
+                                            "url": "/uploads/large_jaquelin_isch_56385651a2.jpg"
+                                        },
+                                        "medium": {
+                                            "name": "medium_jaquelin-isch.jpg",
+                                            "hash": "medium_jaquelin_isch_56385651a2",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 750,
+                                            "height": 375,
+                                            "size": 14.95,
+                                            "url": "/uploads/medium_jaquelin_isch_56385651a2.jpg"
+                                        },
+                                        "small": {
+                                            "name": "small_jaquelin-isch.jpg",
+                                            "hash": "small_jaquelin_isch_56385651a2",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 500,
+                                            "height": 250,
+                                            "size": 8.31,
+                                            "url": "/uploads/small_jaquelin_isch_56385651a2.jpg"
+                                        }
+                                    },
+                                    "hash": "jaquelin_isch_56385651a2",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 26.75,
+                                    "url": "/uploads/jaquelin_isch_56385651a2.jpg",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-12-19T15:49:42.255Z",
+                                    "updatedAt": "2023-12-19T15:49:42.255Z"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "attributes": {
+                        "name": "Dianne Guilianelli",
+                        "role": "General Manager at Initech",
+                        "createdAt": "2023-12-19T15:52:47.417Z",
+                        "updatedAt": "2023-12-19T15:52:47.417Z",
+                        "publishedAt": "2023-12-19T16:08:19.768Z",
+                        "image": {
+                            "data": {
+                                "id": 4,
+                                "attributes": {
+                                    "name": "dianne-guilianelli.jpg",
+                                    "alternativeText": null,
+                                    "caption": null,
+                                    "width": 1120,
+                                    "height": 560,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "name": "thumbnail_dianne-guilianelli.jpg",
+                                            "hash": "thumbnail_dianne_guilianelli_ae653e3fd2",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 245,
+                                            "height": 123,
+                                            "size": 6.17,
+                                            "url": "/uploads/thumbnail_dianne_guilianelli_ae653e3fd2.jpg"
+                                        },
+                                        "large": {
+                                            "name": "large_dianne-guilianelli.jpg",
+                                            "hash": "large_dianne_guilianelli_ae653e3fd2",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 1000,
+                                            "height": 500,
+                                            "size": 55.78,
+                                            "url": "/uploads/large_dianne_guilianelli_ae653e3fd2.jpg"
+                                        },
+                                        "medium": {
+                                            "name": "medium_dianne-guilianelli.jpg",
+                                            "hash": "medium_dianne_guilianelli_ae653e3fd2",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 750,
+                                            "height": 375,
+                                            "size": 35.95,
+                                            "url": "/uploads/medium_dianne_guilianelli_ae653e3fd2.jpg"
+                                        },
+                                        "small": {
+                                            "name": "small_dianne-guilianelli.jpg",
+                                            "hash": "small_dianne_guilianelli_ae653e3fd2",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 500,
+                                            "height": 250,
+                                            "size": 19.06,
+                                            "url": "/uploads/small_dianne_guilianelli_ae653e3fd2.jpg"
+                                        }
+                                    },
+                                    "hash": "dianne_guilianelli_ae653e3fd2",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 66.04,
+                                    "url": "/uploads/dianne_guilianelli_ae653e3fd2.jpg",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-12-19T15:49:41.762Z",
+                                    "updatedAt": "2023-12-19T15:52:41.381Z"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "attributes": {
+                        "name": "Ronni Cantadore",
+                        "role": "Design Engineer at Weyland-Yutani",
+                        "createdAt": "2023-12-19T15:53:14.393Z",
+                        "updatedAt": "2023-12-19T15:53:14.393Z",
+                        "publishedAt": "2023-12-19T16:09:38.162Z",
+                        "image": {
+                            "data": {
+                                "id": 18,
+                                "attributes": {
+                                    "name": "ronni-cantadore.jpg",
+                                    "alternativeText": null,
+                                    "caption": null,
+                                    "width": 1120,
+                                    "height": 560,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "name": "thumbnail_ronni-cantadore.jpg",
+                                            "hash": "thumbnail_ronni_cantadore_a8b6dc7148",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 245,
+                                            "height": 123,
+                                            "size": 5.66,
+                                            "url": "/uploads/thumbnail_ronni_cantadore_a8b6dc7148.jpg"
+                                        },
+                                        "large": {
+                                            "name": "large_ronni-cantadore.jpg",
+                                            "hash": "large_ronni_cantadore_a8b6dc7148",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 1000,
+                                            "height": 500,
+                                            "size": 45.66,
+                                            "url": "/uploads/large_ronni_cantadore_a8b6dc7148.jpg"
+                                        },
+                                        "medium": {
+                                            "name": "medium_ronni-cantadore.jpg",
+                                            "hash": "medium_ronni_cantadore_a8b6dc7148",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 750,
+                                            "height": 375,
+                                            "size": 28.81,
+                                            "url": "/uploads/medium_ronni_cantadore_a8b6dc7148.jpg"
+                                        },
+                                        "small": {
+                                            "name": "small_ronni-cantadore.jpg",
+                                            "hash": "small_ronni_cantadore_a8b6dc7148",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 500,
+                                            "height": 250,
+                                            "size": 15.69,
+                                            "url": "/uploads/small_ronni_cantadore_a8b6dc7148.jpg"
+                                        }
+                                    },
+                                    "hash": "ronni_cantadore_a8b6dc7148",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 54.22,
+                                    "url": "/uploads/ronni_cantadore_a8b6dc7148.jpg",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-12-19T15:49:42.942Z",
+                                    "updatedAt": "2023-12-19T15:49:42.942Z"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "attributes": {
+                        "name": "Erhart Cockrin",
+                        "role": "Product Lead at Cyberdyne Systems",
+                        "createdAt": "2023-12-19T15:54:10.778Z",
+                        "updatedAt": "2023-12-19T15:54:10.778Z",
+                        "publishedAt": "2023-12-19T16:08:19.768Z",
+                        "image": {
+                            "data": {
+                                "id": 5,
+                                "attributes": {
+                                    "name": "erhart-cockrin.jpg",
+                                    "alternativeText": null,
+                                    "caption": null,
+                                    "width": 1120,
+                                    "height": 560,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "name": "thumbnail_erhart-cockrin.jpg",
+                                            "hash": "thumbnail_erhart_cockrin_9581407b87",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 245,
+                                            "height": 123,
+                                            "size": 5.62,
+                                            "url": "/uploads/thumbnail_erhart_cockrin_9581407b87.jpg"
+                                        },
+                                        "large": {
+                                            "name": "large_erhart-cockrin.jpg",
+                                            "hash": "large_erhart_cockrin_9581407b87",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 1000,
+                                            "height": 500,
+                                            "size": 44.65,
+                                            "url": "/uploads/large_erhart_cockrin_9581407b87.jpg"
+                                        },
+                                        "small": {
+                                            "name": "small_erhart-cockrin.jpg",
+                                            "hash": "small_erhart_cockrin_9581407b87",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 500,
+                                            "height": 250,
+                                            "size": 15.34,
+                                            "url": "/uploads/small_erhart_cockrin_9581407b87.jpg"
+                                        },
+                                        "medium": {
+                                            "name": "medium_erhart-cockrin.jpg",
+                                            "hash": "medium_erhart_cockrin_9581407b87",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 750,
+                                            "height": 375,
+                                            "size": 28.37,
+                                            "url": "/uploads/medium_erhart_cockrin_9581407b87.jpg"
+                                        }
+                                    },
+                                    "hash": "erhart_cockrin_9581407b87",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 52.91,
+                                    "url": "/uploads/erhart_cockrin_9581407b87.jpg",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-12-19T15:49:41.868Z",
+                                    "updatedAt": "2023-12-19T15:49:41.868Z"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "attributes": {
+                        "name": "Parker Johnson",
+                        "role": "UI Designer at MomCorp",
+                        "createdAt": "2023-12-19T15:55:16.039Z",
+                        "updatedAt": "2023-12-19T15:55:16.039Z",
+                        "publishedAt": "2023-12-19T16:09:38.162Z",
+                        "image": {
+                            "data": {
+                                "id": 15,
+                                "attributes": {
+                                    "name": "parker-johnson.jpg",
+                                    "alternativeText": null,
+                                    "caption": null,
+                                    "width": 1120,
+                                    "height": 560,
+                                    "formats": {
+                                        "thumbnail": {
+                                            "name": "thumbnail_parker-johnson.jpg",
+                                            "hash": "thumbnail_parker_johnson_648e2ae06d",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 245,
+                                            "height": 123,
+                                            "size": 8.06,
+                                            "url": "/uploads/thumbnail_parker_johnson_648e2ae06d.jpg"
+                                        },
+                                        "large": {
+                                            "name": "large_parker-johnson.jpg",
+                                            "hash": "large_parker_johnson_648e2ae06d",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 1000,
+                                            "height": 500,
+                                            "size": 60.5,
+                                            "url": "/uploads/large_parker_johnson_648e2ae06d.jpg"
+                                        },
+                                        "small": {
+                                            "name": "small_parker-johnson.jpg",
+                                            "hash": "small_parker_johnson_648e2ae06d",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 500,
+                                            "height": 250,
+                                            "size": 22.39,
+                                            "url": "/uploads/small_parker_johnson_648e2ae06d.jpg"
+                                        },
+                                        "medium": {
+                                            "name": "medium_parker-johnson.jpg",
+                                            "hash": "medium_parker_johnson_648e2ae06d",
+                                            "ext": ".jpg",
+                                            "mime": "image/jpeg",
+                                            "path": null,
+                                            "width": 750,
+                                            "height": 375,
+                                            "size": 39.78,
+                                            "url": "/uploads/medium_parker_johnson_648e2ae06d.jpg"
+                                        }
+                                    },
+                                    "hash": "parker_johnson_648e2ae06d",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 71.12,
+                                    "url": "/uploads/parker_johnson_648e2ae06d.jpg",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2023-12-19T15:49:42.848Z",
+                                    "updatedAt": "2023-12-19T15:49:42.848Z"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "timeSlots": [
+            {
+                "id": 1,
+                "start": "09:00:00.000",
+                "end": "10:00:00.000",
+                "description": "Not so one-time payments",
+                "speaker": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "name": "Steven McHail",
+                            "role": "Designer at Globex Corporation",
+                            "createdAt": "2023-12-19T15:50:58.773Z",
+                            "updatedAt": "2023-12-19T16:09:17.490Z",
+                            "publishedAt": "2023-12-19T16:09:17.488Z",
+                            "image": {
+                                "data": {
+                                    "id": 19,
+                                    "attributes": {
+                                        "name": "steven-mchail.jpg",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 1120,
+                                        "height": 560,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "name": "thumbnail_steven-mchail.jpg",
+                                                "hash": "thumbnail_steven_mchail_a771cf03e5",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 245,
+                                                "height": 123,
+                                                "size": 3.84,
+                                                "url": "/uploads/thumbnail_steven_mchail_a771cf03e5.jpg"
+                                            },
+                                            "medium": {
+                                                "name": "medium_steven-mchail.jpg",
+                                                "hash": "medium_steven_mchail_a771cf03e5",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 750,
+                                                "height": 375,
+                                                "size": 21.1,
+                                                "url": "/uploads/medium_steven_mchail_a771cf03e5.jpg"
+                                            },
+                                            "large": {
+                                                "name": "large_steven-mchail.jpg",
+                                                "hash": "large_steven_mchail_a771cf03e5",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 1000,
+                                                "height": 500,
+                                                "size": 34.72,
+                                                "url": "/uploads/large_steven_mchail_a771cf03e5.jpg"
+                                            },
+                                            "small": {
+                                                "name": "small_steven-mchail.jpg",
+                                                "hash": "small_steven_mchail_a771cf03e5",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 500,
+                                                "height": 250,
+                                                "size": 11.02,
+                                                "url": "/uploads/small_steven_mchail_a771cf03e5.jpg"
+                                            }
+                                        },
+                                        "hash": "steven_mchail_a771cf03e5",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 41.72,
+                                        "url": "/uploads/steven_mchail_a771cf03e5.jpg",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2023-12-19T15:49:42.958Z",
+                                        "updatedAt": "2023-12-19T15:49:42.958Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "start": "10:00:00.000",
+                "end": "11:00:00.000",
+                "description": "The finer print",
+                "speaker": {
+                    "data": {
+                        "id": 2,
+                        "attributes": {
+                            "name": "Jaquelin Isch",
+                            "role": "UX Design at InGen",
+                            "createdAt": "2023-12-19T15:51:58.437Z",
+                            "updatedAt": "2023-12-19T15:51:58.437Z",
+                            "publishedAt": "2023-12-19T16:08:19.768Z",
+                            "image": {
+                                "data": {
+                                    "id": 9,
+                                    "attributes": {
+                                        "name": "jaquelin-isch.jpg",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 1120,
+                                        "height": 560,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "name": "thumbnail_jaquelin-isch.jpg",
+                                                "hash": "thumbnail_jaquelin_isch_56385651a2",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 245,
+                                                "height": 123,
+                                                "size": 3.09,
+                                                "url": "/uploads/thumbnail_jaquelin_isch_56385651a2.jpg"
+                                            },
+                                            "large": {
+                                                "name": "large_jaquelin-isch.jpg",
+                                                "hash": "large_jaquelin_isch_56385651a2",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 1000,
+                                                "height": 500,
+                                                "size": 23.1,
+                                                "url": "/uploads/large_jaquelin_isch_56385651a2.jpg"
+                                            },
+                                            "medium": {
+                                                "name": "medium_jaquelin-isch.jpg",
+                                                "hash": "medium_jaquelin_isch_56385651a2",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 750,
+                                                "height": 375,
+                                                "size": 14.95,
+                                                "url": "/uploads/medium_jaquelin_isch_56385651a2.jpg"
+                                            },
+                                            "small": {
+                                                "name": "small_jaquelin-isch.jpg",
+                                                "hash": "small_jaquelin_isch_56385651a2",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 500,
+                                                "height": 250,
+                                                "size": 8.31,
+                                                "url": "/uploads/small_jaquelin_isch_56385651a2.jpg"
+                                            }
+                                        },
+                                        "hash": "jaquelin_isch_56385651a2",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 26.75,
+                                        "url": "/uploads/jaquelin_isch_56385651a2.jpg",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2023-12-19T15:49:42.255Z",
+                                        "updatedAt": "2023-12-19T15:49:42.255Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "start": "11:00:00.000",
+                "end": "12:00:00.000",
+                "description": "Post-purchase blackmail",
+                "speaker": {
+                    "data": {
+                        "id": 3,
+                        "attributes": {
+                            "name": "Dianne Guilianelli",
+                            "role": "General Manager at Initech",
+                            "createdAt": "2023-12-19T15:52:47.417Z",
+                            "updatedAt": "2023-12-19T15:52:47.417Z",
+                            "publishedAt": "2023-12-19T16:08:19.768Z",
+                            "image": {
+                                "data": {
+                                    "id": 4,
+                                    "attributes": {
+                                        "name": "dianne-guilianelli.jpg",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 1120,
+                                        "height": 560,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "name": "thumbnail_dianne-guilianelli.jpg",
+                                                "hash": "thumbnail_dianne_guilianelli_ae653e3fd2",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 245,
+                                                "height": 123,
+                                                "size": 6.17,
+                                                "url": "/uploads/thumbnail_dianne_guilianelli_ae653e3fd2.jpg"
+                                            },
+                                            "large": {
+                                                "name": "large_dianne-guilianelli.jpg",
+                                                "hash": "large_dianne_guilianelli_ae653e3fd2",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 1000,
+                                                "height": 500,
+                                                "size": 55.78,
+                                                "url": "/uploads/large_dianne_guilianelli_ae653e3fd2.jpg"
+                                            },
+                                            "medium": {
+                                                "name": "medium_dianne-guilianelli.jpg",
+                                                "hash": "medium_dianne_guilianelli_ae653e3fd2",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 750,
+                                                "height": 375,
+                                                "size": 35.95,
+                                                "url": "/uploads/medium_dianne_guilianelli_ae653e3fd2.jpg"
+                                            },
+                                            "small": {
+                                                "name": "small_dianne-guilianelli.jpg",
+                                                "hash": "small_dianne_guilianelli_ae653e3fd2",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 500,
+                                                "height": 250,
+                                                "size": 19.06,
+                                                "url": "/uploads/small_dianne_guilianelli_ae653e3fd2.jpg"
+                                            }
+                                        },
+                                        "hash": "dianne_guilianelli_ae653e3fd2",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 66.04,
+                                        "url": "/uploads/dianne_guilianelli_ae653e3fd2.jpg",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2023-12-19T15:49:41.762Z",
+                                        "updatedAt": "2023-12-19T15:52:41.381Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "start": "13:00:00.000",
+                "end": "14:00:00.000",
+                "description": "Buy or die",
+                "speaker": {
+                    "data": {
+                        "id": 4,
+                        "attributes": {
+                            "name": "Ronni Cantadore",
+                            "role": "Design Engineer at Weyland-Yutani",
+                            "createdAt": "2023-12-19T15:53:14.393Z",
+                            "updatedAt": "2023-12-19T15:53:14.393Z",
+                            "publishedAt": "2023-12-19T16:09:38.162Z",
+                            "image": {
+                                "data": {
+                                    "id": 18,
+                                    "attributes": {
+                                        "name": "ronni-cantadore.jpg",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 1120,
+                                        "height": 560,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "name": "thumbnail_ronni-cantadore.jpg",
+                                                "hash": "thumbnail_ronni_cantadore_a8b6dc7148",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 245,
+                                                "height": 123,
+                                                "size": 5.66,
+                                                "url": "/uploads/thumbnail_ronni_cantadore_a8b6dc7148.jpg"
+                                            },
+                                            "large": {
+                                                "name": "large_ronni-cantadore.jpg",
+                                                "hash": "large_ronni_cantadore_a8b6dc7148",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 1000,
+                                                "height": 500,
+                                                "size": 45.66,
+                                                "url": "/uploads/large_ronni_cantadore_a8b6dc7148.jpg"
+                                            },
+                                            "medium": {
+                                                "name": "medium_ronni-cantadore.jpg",
+                                                "hash": "medium_ronni_cantadore_a8b6dc7148",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 750,
+                                                "height": 375,
+                                                "size": 28.81,
+                                                "url": "/uploads/medium_ronni_cantadore_a8b6dc7148.jpg"
+                                            },
+                                            "small": {
+                                                "name": "small_ronni-cantadore.jpg",
+                                                "hash": "small_ronni_cantadore_a8b6dc7148",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 500,
+                                                "height": 250,
+                                                "size": 15.69,
+                                                "url": "/uploads/small_ronni_cantadore_a8b6dc7148.jpg"
+                                            }
+                                        },
+                                        "hash": "ronni_cantadore_a8b6dc7148",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 54.22,
+                                        "url": "/uploads/ronni_cantadore_a8b6dc7148.jpg",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2023-12-19T15:49:42.942Z",
+                                        "updatedAt": "2023-12-19T15:49:42.942Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 5,
+                "start": "14:00:00.000",
+                "end": "15:00:00.000",
+                "description": "In-person cancellation",
+                "speaker": {
+                    "data": {
+                        "id": 5,
+                        "attributes": {
+                            "name": "Erhart Cockrin",
+                            "role": "Product Lead at Cyberdyne Systems",
+                            "createdAt": "2023-12-19T15:54:10.778Z",
+                            "updatedAt": "2023-12-19T15:54:10.778Z",
+                            "publishedAt": "2023-12-19T16:08:19.768Z",
+                            "image": {
+                                "data": {
+                                    "id": 5,
+                                    "attributes": {
+                                        "name": "erhart-cockrin.jpg",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 1120,
+                                        "height": 560,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "name": "thumbnail_erhart-cockrin.jpg",
+                                                "hash": "thumbnail_erhart_cockrin_9581407b87",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 245,
+                                                "height": 123,
+                                                "size": 5.62,
+                                                "url": "/uploads/thumbnail_erhart_cockrin_9581407b87.jpg"
+                                            },
+                                            "large": {
+                                                "name": "large_erhart-cockrin.jpg",
+                                                "hash": "large_erhart_cockrin_9581407b87",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 1000,
+                                                "height": 500,
+                                                "size": 44.65,
+                                                "url": "/uploads/large_erhart_cockrin_9581407b87.jpg"
+                                            },
+                                            "small": {
+                                                "name": "small_erhart-cockrin.jpg",
+                                                "hash": "small_erhart_cockrin_9581407b87",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 500,
+                                                "height": 250,
+                                                "size": 15.34,
+                                                "url": "/uploads/small_erhart_cockrin_9581407b87.jpg"
+                                            },
+                                            "medium": {
+                                                "name": "medium_erhart-cockrin.jpg",
+                                                "hash": "medium_erhart_cockrin_9581407b87",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 750,
+                                                "height": 375,
+                                                "size": 28.37,
+                                                "url": "/uploads/medium_erhart_cockrin_9581407b87.jpg"
+                                            }
+                                        },
+                                        "hash": "erhart_cockrin_9581407b87",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 52.91,
+                                        "url": "/uploads/erhart_cockrin_9581407b87.jpg",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2023-12-19T15:49:41.868Z",
+                                        "updatedAt": "2023-12-19T15:49:41.868Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": 6,
+                "start": "15:00:00.000",
+                "end": "16:00:00.000",
+                "description": "The pay/cancel switcheroo",
+                "speaker": {
+                    "data": {
+                        "id": 6,
+                        "attributes": {
+                            "name": "Parker Johnson",
+                            "role": "UI Designer at MomCorp",
+                            "createdAt": "2023-12-19T15:55:16.039Z",
+                            "updatedAt": "2023-12-19T15:55:16.039Z",
+                            "publishedAt": "2023-12-19T16:09:38.162Z",
+                            "image": {
+                                "data": {
+                                    "id": 15,
+                                    "attributes": {
+                                        "name": "parker-johnson.jpg",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 1120,
+                                        "height": 560,
+                                        "formats": {
+                                            "thumbnail": {
+                                                "name": "thumbnail_parker-johnson.jpg",
+                                                "hash": "thumbnail_parker_johnson_648e2ae06d",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 245,
+                                                "height": 123,
+                                                "size": 8.06,
+                                                "url": "/uploads/thumbnail_parker_johnson_648e2ae06d.jpg"
+                                            },
+                                            "large": {
+                                                "name": "large_parker-johnson.jpg",
+                                                "hash": "large_parker_johnson_648e2ae06d",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 1000,
+                                                "height": 500,
+                                                "size": 60.5,
+                                                "url": "/uploads/large_parker_johnson_648e2ae06d.jpg"
+                                            },
+                                            "small": {
+                                                "name": "small_parker-johnson.jpg",
+                                                "hash": "small_parker_johnson_648e2ae06d",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 500,
+                                                "height": 250,
+                                                "size": 22.39,
+                                                "url": "/uploads/small_parker_johnson_648e2ae06d.jpg"
+                                            },
+                                            "medium": {
+                                                "name": "medium_parker-johnson.jpg",
+                                                "hash": "medium_parker_johnson_648e2ae06d",
+                                                "ext": ".jpg",
+                                                "mime": "image/jpeg",
+                                                "path": null,
+                                                "width": 750,
+                                                "height": 375,
+                                                "size": 39.78,
+                                                "url": "/uploads/medium_parker_johnson_648e2ae06d.jpg"
+                                            }
+                                        },
+                                        "hash": "parker_johnson_648e2ae06d",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "size": 71.12,
+                                        "url": "/uploads/parker_johnson_648e2ae06d.jpg",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2023-12-19T15:49:42.848Z",
+                                        "updatedAt": "2023-12-19T15:49:42.848Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

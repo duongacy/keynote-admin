@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "speakers_singles",
+  "info": {
+    "singularName": "speakers-single",
+    "pluralName": "speakers-singles",
+    "displayName": "SpeakersSingle"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

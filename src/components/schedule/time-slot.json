@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_schedule_time_slots",
+  "info": {
+    "displayName": "timeSlot",
+    "icon": "clock",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text",
+      "required": true
+    },
+    "start": {
+      "required": true,
+      "type": "time"
+    },
+    "end": {
+      "type": "time",
+      "required": true
+    },
+    "speaker": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::speaker.speaker"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "schedules_singles",
+  "info": {
+    "singularName": "schedules-single",
+    "pluralName": "schedules-singles",
+    "displayName": "SchedulesSingle"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
